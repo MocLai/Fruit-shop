@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\ThanhHai\fruit_eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3041972147.index
+2230641426.index
+1277438927.index
+316276377.index
+2703869313.index
+1188000730.index
